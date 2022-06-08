@@ -1,0 +1,6 @@
+com/example/tabacv3/MainActivity.java
+ com.example.tabacv3.MainActivity
+ com.example.tabacv3.MainActivity$1
+ com.example.tabacv3.MainActivity$2
+com/example/tabacv3/BuildConfig.java
+ com.example.tabacv3.BuildConfig

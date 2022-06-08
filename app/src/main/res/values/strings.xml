@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TaBaC</string>
+    <string name="logo_head">logo_head</string>
+    <string name="battery">battery</string>
+    <string name="target">target</string>
+    <string name="enter">Enter %</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="your_device_ringtone_will_be_played">your device ringtone will be played.</string>
+    <string name="battery_clock">Battery_clock</string>
+    <string name="developer">developer</string>
+    <string name="by_hari_dutt">By Hari Dutt</string>
+</resources>
